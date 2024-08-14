@@ -1,13 +1,4 @@
-# 🚀 Katsetamwe: The Next.js Adventure 🌈
-
-```ascii
- _  __      _            _                               
-| |/ /__ _ | |_ ___  ___| |_ __ _ _ __ _____      _____  
-| ' // _` || __/ __|/ _ \ __/ _` | '_ ` _ \ \ /\ / / _ \ 
-| . \ (_| || |_\__ \  __/ || (_| | | | | | \ V  V /  __/ 
-|_|\_\__,_| \__|___/\___|\__\__,_|_| |_| |_|\_/\_/ \___| 
-                                                         
-```
+# 🚀 My: Next.js Adventure 🌈
 
 Welcome to the most extraordinary Next.js project you've ever laid eyes on! 👀 Prepare to be amazed, astounded, and mildly amused as we embark on this coding journey together.
 
@@ -21,11 +12,11 @@ Welcome to the most extraordinary Next.js project you've ever laid eyes on! 👀
 
 1. Clone this repo (careful, it's hot! 🔥)
    ```
-   git clone https://github.com/your-username/katsetamwe.git
+   git clone https://github.com/hahahaa
    ```
 2. Enter the magical realm
    ```
-   cd katsetamwe
+   cd perse
    ```
 3. Install dependencies (they're like friends, but for your code)
    ```
